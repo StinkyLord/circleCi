@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  wsorb: philiptest/wsstestorb@1.0.6
+  wsorb: whitesource/whitesource-scan@21.6.3
 
 workflows:
   test:
